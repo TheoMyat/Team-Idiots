@@ -1,0 +1,121 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background-color:#C7E4EE;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.Logo{
+    width: 200px;
+    height: 190px;
+}
+header{
+    background-color: #de81a0;
+    padding: 20px;
+}
+.Re{
+    width: 290px;
+    height: 190px;
+    padding-left: 5%;
+   position:absolute;
+}
+.Pen{
+    Width: 200px;
+    height: 160px;
+    padding-left: 47.5%;
+    padding-top: 3.5%;
+}
+nav{
+    background-color:#FFC17A;
+    text-align: center;
+    padding: 20px;
+}
+nav li{
+    display: inline;
+}
+nav a{
+    font-size: 20px;
+    color:#051650;
+    text-decoration: none;
+    padding:10px;
+}
+nav a:hover{
+    background-color: aquamarine;
+    border-radius: 8px;
+}
+section{
+    background-color: #FEFFEC;
+    padding: 55px;
+}
+section p{
+    line-height: 30px;
+    margin-bottom: 80px;
+}
+footer{
+    background-color: #52AAAE;
+    padding: 10px;
+    text-align: center;
+    color:black
+}
+
+.HappyBirthday-img{
+    width: 600px;
+    height: 350px;
+    padding: 3px;
+    border: 1px solid blueviolet;
+    border-radius: 20px;
+    box-shadow: 1px 1px 2px burlywood;
+}
+.bebe{
+    font-size: 30px;
+    text-shadow:  2px 2px 3px red;
+    color: rgba(3, 148, 148, 0.879);
+    text-align: center;
+}
+.fa-brands:hover{
+    color: #fff4a3;
+    padding: 10px;
+    background-color: #fff4a3;
+    border-radius: 50%;
+    text-shadow: 2px 2px 2px #605504;
+    transition: 0.5s;
+}
+.AungGyi{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 22px;
+    text-align:left;
+    background-color: aquamarine;
+    border:2px solid #fff4a3;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px blanchedalmond;
+    padding: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.Aklal{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    text-align: bottom;
+}
+.Imac{
+    width: 500px;
+    height: 350px;
+    padding: 30px;
+    margin:30px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: rgb(246, 216, 246);
+    background-position: 10px;
+    border: 3px solid rgb(212, 187, 237);
+    border-width: 5px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px rgb(136, 136, 243);
+}
+.mrmr{
+    font-size: 20px;
+    text-align: center;
+}
