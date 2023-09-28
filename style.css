@@ -1,0 +1,90 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+body{
+    background-color:#C7E4EE;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.Logo{
+    width: 200px;
+    height: 190px;
+}
+header{
+    background-color: #DE81A0;
+    padding: 20px;
+}
+.Re{
+    width: 290px;
+    height: 190px;
+    padding-left: 5%;
+   position:absolute;
+}
+.Pen{
+    Width: 200px;
+    height: 160px;
+    padding-left: 47.5%;
+    padding-top: 3.5%;
+}
+nav{
+    background-color:#FFC17A;
+    text-align: center;
+    padding: 20px;
+}
+nav li{
+    display: inline;
+}
+nav a{
+    font-size: 20px;
+    color:#051650;
+    text-decoration: none;
+    padding:10px;
+}
+nav a:hover{
+    background-color: aquamarine;
+    border-radius: 8px;
+}
+section{
+    background-color: #fff;
+    padding:35px;
+}
+secetion p{
+    line-height: 30px;
+}
+footer{
+    background-color: aquamarine;
+    padding: 10px;
+    text-align: center;
+    color:black;
+}
+.ngapaw{
+    font-size: 16.2px;
+    text-align: center;
+    margin: 2px;
+    background-color: whitesmoke;
+    color: #19507d;
+    text-decoration: none;
+    border: 1px solid gold;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px #ced2d4;
+    padding: 10px;
+}
+.monkey{
+    text-align: center;
+    font-size: 35px;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 22px;
+    text-align:left;
+    margin-bottom: 10px;
+    background-color: aqua;
+    border:2px solid #fff4a3;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px blanchedalmond;
+    padding: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.eagle{
+    text-align: center;
+}
